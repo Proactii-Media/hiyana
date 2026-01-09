@@ -91,11 +91,22 @@ export const ContactForm = () => {
                   <div>
                     <p className="text-gray-600 text-sm mb-1">Give me a call</p>
                     <a
-                      href="tel:+9125915894"
+                      href="tel:+9122 25915894 /95 /96"
                       target="_blank"
                       className="text-black font-semibold text-lg hover:text-orange-400 transition-colors inline-flex items-center gap-2 group"
                     >
-                      +91 25915894
+                      +912225915894 /95 /96
+                      <span className="transform group-hover:translate-x-1 transition-transform">
+                        →
+                      </span>
+                    </a>
+                    <br/>
+                    <a
+                      href="tel:+91 8108111092 /95 /96"
+                      target="_blank"
+                      className="text-black font-semibold text-lg hover:text-orange-400 transition-colors inline-flex items-center gap-2 group"
+                    >
+                      +91 8108111092
                       <span className="transform group-hover:translate-x-1 transition-transform">
                         →
                       </span>
