@@ -85,7 +85,8 @@ const Footer = () => {
                 >
                   +022 25915894 /95 /96
                 </a>
-                <br/>
+               </li>
+              <li className="flex gap-3  text-sm">
                 <Phone className="w-5 h-5 text-teal-green shrink-0" />
                 <a
                   href="tel:+91 8108111092"
