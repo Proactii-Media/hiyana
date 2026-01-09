@@ -89,11 +89,19 @@ const Footer = () => {
               <li className="flex gap-3  text-sm">
                 <Mail className="w-5 h-5 text-teal-green shrink-0" />
                 <a
-                  href="mailto:info@hiyana.in"
+                  href="mailto:nisarg@hiyana.in"
                   target="_blank"
                   className="hover:text-turquoise-blue transition-colors duration-200"
                 >
-                  info@hiyana.in
+                  nisarg@hiyana.in
+                </a>
+                <br/>
+                <a
+                  href="mailto:cs@hiyana.in"
+                  target="_blank"
+                  className="hover:text-turquoise-blue transition-colors duration-200"
+                >
+                  cs@hiyana.in
                 </a>
               </li>
             </ul>
