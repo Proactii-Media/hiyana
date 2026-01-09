@@ -60,11 +60,22 @@ export const ContactForm = () => {
                       Send me an email
                     </p>
                     <a
-                      href="mailto:info@hiyanaworld.com"
+                      href="mailto:nisarg@hwlpl.in"
                       target="_blank"
                       className="text-black font-semibold text-lg hover:text-orange-400 transition-colors inline-flex items-center gap-2 group"
                     >
-                      info@hiyanaworld.com
+                      nisarg@hwlpl.in
+                      <span className="transform group-hover:translate-x-1 transition-transform">
+                        →
+                      </span>
+                    </a>
+
+                    <a
+                      href="mailto:cs@hwlpl.in"
+                      target="_blank"
+                      className="text-black font-semibold text-lg hover:text-orange-400 transition-colors inline-flex items-center gap-2 group"
+                    >
+                      cs@hwlpl.in
                       <span className="transform group-hover:translate-x-1 transition-transform">
                         →
                       </span>
