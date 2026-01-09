@@ -85,6 +85,15 @@ const Footer = () => {
                 >
                   +022 25915894 /95 /96
                 </a>
+                <br/>
+                <Phone className="w-5 h-5 text-teal-green shrink-0" />
+                <a
+                  href="tel:+91 8108111092"
+                  target="_blank"
+                  className="hover:text-turquoise-blue transition-colors duration-200"
+                >
+                  +91 8108111092
+                </a>
               </li>
               <li className="flex gap-3  text-sm">
                 <Mail className="w-5 h-5 text-teal-green shrink-0" />
