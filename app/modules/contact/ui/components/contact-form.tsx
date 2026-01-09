@@ -64,7 +64,7 @@ export const ContactForm = () => {
                       target="_blank"
                       className="text-black font-semibold text-lg hover:text-orange-400 transition-colors inline-flex items-center gap-2 group"
                     >
-                      nisarg@hwlpl.in
+                      nisarg@hwlpl.in, 
                       <span className="transform group-hover:translate-x-1 transition-transform">
                         →
                       </span>
