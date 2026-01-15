@@ -2,7 +2,7 @@ import React from "react";
 
 export const StatsSection = () => {
   return (
-    <section className="bg-black text-white max-w-full sm:max-w-[80%] py-28 px-4 sm:px-6 lg:px-8 -mt-44 relative z-10">
+    <section className="bg-black text-white max-w-full sm:max-w-[100%] py-28 px-4 sm:px-6 lg:px-8 -mt-44 relative z-10">
       {/* Container matches hero content width */}
       <div className="container mx-auto max-w-6xl">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 items-center">
